@@ -326,9 +326,9 @@ footer{
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    gap: 90;
+    gap: 90px;
     padding: 120px 120px 50px 120px;
-    max-width: 1600;
+    max-width: 1600px;
     margin: 0 auto;
 }
 .footer-top{
